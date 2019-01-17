@@ -1,0 +1,2 @@
+This module required the py-trello module and
+its requiments.
