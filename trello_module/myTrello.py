@@ -8,7 +8,7 @@ __all__ = ['trelloConnection']
 
 class trelloConnection:
 	"""
-    Implémentation de la proclamation de la bonne parole.
+    Implémentation d'une aide a la connection a trello
  
     Usage:
  
